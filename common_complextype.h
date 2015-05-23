@@ -46,7 +46,7 @@
 
 template<typename T>
 class EXPORT CComplexType
-{
+{  
 public:
 	inline int32_t Init()
 	{
