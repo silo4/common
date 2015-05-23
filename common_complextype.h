@@ -12,7 +12,7 @@
 #include "common_errordef.h"
 #include "common_object.h"
 #include "common_export.h"
-
+  
 
 #define CCOMPLEXTYPE_SPECIFICALLY(type)	\
 	template<>	\
